@@ -1,0 +1,6 @@
+ofxCv
+ofxDatGui
+ofxHttpUtils
+ofxIO
+ofxOpenCv
+ofxXmlSettings
